@@ -21,33 +21,38 @@ Kevin Buffardi, Ph.D., Professor, California State University, Chico
 
 [LearnByFailure.com/data-viz](https://learnbyfailure.com/data-viz)
 
-<!-->
-<img src="qr-future-se.svg" alt="QR code for this presentation" width="30%">
+<img src="qr-data-viz.png" alt="QR code for this presentation" width="30%">
 </img>
-</-->
 
-<sub>[back to LearnByFailure.com](https://learnbyfailure.com/research/)</sub>
-
-[comment]: # (!!!)
-
-#### Goals
-
-- Communicate meaning of data
-
-[comment]: # (||| data-auto-animate)
-
-#### Goals
-
-- Communicate meaning of data
-  - and relationships
+<small>[Back to LearnByFailure](https://learnbyfailure.com/research/)</small>
 
 [comment]: # (!!!)
 
-#### Visual Encoding
+#### Goals 
 
-* Shapes
-* Colors
-* etc.
+- Communicate meaning of data
+  - Relationships
+  - Comparisons
+  - Distributions
+  - Composition
+- Interact and explore data
+
+[comment]: # (!!!)
+
+#### Modes of Visualization
+
+- What is necessary?
+  - **Tables** enable lookup of specific values
+  - **Charts** provide nuance 
+    - simplify multivariate visualization
+  - **Interactive visualizations** provide custom control
+
+[comment]: # (!!!)
+
+#### Choosing the Right Chart
+
+<img src="extreme-presentation-chart.jpg" alt="Decision tree for choosing the right chart, via Abela">
+</img>
 
 [comment]: # (!!!)
 
@@ -55,10 +60,8 @@ Kevin Buffardi, Ph.D., Professor, California State University, Chico
 
 <small>This presentation is accessible at [learnbyfailure.com/data-viz/](https://learnbyfailure.com/data-viz/) and its source is available on [GitHub](https://github.com/kbuffardi/data-viz/).</small>
 
-<!-->
-<img src="qr-future-se.svg" alt="QR code for this presentation" width="30%">
+<img src="qr-data-viz.png" alt="QR code for this presentation" width="30%">
 </img>
-</-->
 
 <small>[Back to LearnByFailure](https://learnbyfailure.com/research/)
 </small>
