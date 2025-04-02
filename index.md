@@ -17,14 +17,15 @@
 ### Data Visualization Workshop
 ----------
 
-Kevin Buffardi, Ph.D., Professor, California State University, Chico
+Dr. Kevin Buffardi, Professor, Chico State
 
-[LearnByFailure.com/data-viz](https://learnbyfailure.com/data-viz)
+<small>See this presentation at [learnbyfailure.com/data-viz/](https://learnbyfailure.com/data-viz/) and its source on [GitHub](https://github.com/kbuffardi/data-viz/).</small>
 
 <img src="qr-data-viz.png" alt="QR code for this presentation" width="30%">
 </img>
 
-<small>[Back to LearnByFailure](https://learnbyfailure.com/research/)</small>
+<small>[Back to LearnByFailure](https://learnbyfailure.com/research/)
+</small>
 
 [comment]: # (!!!)
 
