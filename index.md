@@ -49,10 +49,133 @@ Kevin Buffardi, Ph.D., Professor, California State University, Chico
 
 [comment]: # (!!!)
 
+#### Get to Know Your Data
+
+- How many variables?
+- Categorical
+  - Qualitative data
+  - Clusters
+- Ordinal
+  - Ordered, but not on numerical scale
+    - "Strongly Disagree" to "Strongly Agree" Likert-type
+- Numeric
+  - Continuous
+  - Discrete
+
+[comment]: # (!!!)
+
 #### Choosing the Right Chart
 
+<a href="https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf" target="_blank">
 <img src="extreme-presentation-chart.jpg" alt="Decision tree for choosing the right chart, via Abela">
 </img>
+</a>
+
+[comment]: # (!!!)
+
+#### Choosing the Right Colors
+
+  - **Sequential** - vary only lightness/opacity
+    - **Continuous** - continuous scale
+    - **Discrete** - ordinal, discrete, or "buckets"
+
+<a href="https://www.atlassian.com/data/charts/how-to-choose-colors-data-visualization" target="_blank">
+  <img src="https://wac-cdn.atlassian.com/dam/jcr:f2340687-9e19-4859-9c2c-87465f001678/continuous-vs-discrete-choropleth.png?cdnVersion=2635" alt="Comparing continuous color scale vs. buckets">
+  </img>
+</a>
+
+[comment]: # (|||)
+
+#### Choosing the Right Colors
+
+  - **Divergent** - vary between hues to signify magnitude and category
+
+<a href="https://www.flerlagetwins.com/2019/04/predominance-maps.html" target="_blank">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOr7w8BsVOBvofx12YOM3k0p0emSW5Z_hNNECGFH0lNbgqZ8vkQ3mYB7nhxslpw01c5oamv8LsrBaqUGE83AVXQOhrbTkGW5lSVKgkGYRtsHWrO3jgFfwxnUyMRsQLbV0L9UaqpMTsRKM/s1600/Heading.png" alt="Diverging scale illustrating voting preference by county in USA">
+  </img>
+</a>
+
+[comment]: # (|||)
+
+#### Choosing the Right Colors
+
+  - **Categorical** - categorize by hue
+
+<a href="https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/" target="_blank">
+  <img src="https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2022/03/Clustered-bar-chart-new-order.svg" alt="Categorical scales for comparing fruit sales between multiple shops">
+  </img>
+</a>
+
+[comment]: # (!!!)
+
+#### Viz Sins
+
+Common bad practices ("Viz Sins") 
+
+  - Misrepresent data
+  - Difficult to interpret
+
+[comment]: # (|||)
+
+#### Viz Sins: Colors
+
+- Color scale does not match data type
+  - Too close to differentiate
+  - Ignoring Color Blindness
+    - [Simulate Color Blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+- Antidotes
+  - [Color blind safe palettes](https://davidmathlogic.com/colorblind)
+  - Redundant encoding data (shapes/patterns/size/etc.)
+
+[comment]: # (|||)
+
+#### Viz Sins: Axes
+
+- Axes
+  - Label scale and units
+  - Avoid misleading "broken axis"
+  - Unnecessary dimensions
+- Linear vs Logarithmic scale
+
+[comment]: # (|||)
+
+#### Viz Sins: Where People Live
+
+- Graphing by location
+  - Population density is a dominant factor
+  - [Reddit People Live in Cities](https://www.reddit.com/r/PeopleLiveInCities/)
+
+[comment]: # (|||)
+
+#### Viz Sins: Over-sliced Pie
+
+- Pie charts with too many slices
+
+<a href="https://www.atlassian.com/data/charts/how-to-choose-colors-data-visualization" target="_blank">
+  <img src="https://wac-cdn.atlassian.com/dam/jcr:60eecca0-6c0b-406e-b491-be1c88fc619c/pie-chart-grouping-slices.png?cdnVersion=2635" alt="Contrasting pie chart with 12 slices versus one with 6">
+  </img>
+</a>
+
+[comment]: # (!!!)
+
+#### Interactive Visualizations
+
+- Interaction gives control over visualization
+- [Shneiderman's Information Seeking Mantra](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
+  - Overview first
+  - Zoom and filter
+  - Details on demand
+
+[comment]: # (!!!)
+
+#### Tools
+
+- Charts
+  - R [ggplot](https://ggplot2.tidyverse.org/)
+  - Python [plotly](https://plotly.com/python/)
+- Interactive visualizations
+  - Shiny for [R](https://shiny.posit.co/py/docs/comp-r-shiny.html) or [Python](https://shiny.posit.co/py/)
+  - [Tableau](https://www.tableau.com/)
 
 [comment]: # (!!!)
 
